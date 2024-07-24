@@ -1,2 +1,1 @@
-# JX3lua
-jx3 lua脚本存档
+jx3toy相关存档
